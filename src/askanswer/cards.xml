@@ -1,0 +1,38 @@
+<deck name="deck">
+	<card>
+		<category>Tárgy</category>
+		<name>Lemezjátszó</name>
+		<infos>
+			<value>Csak játszom</value>
+			<value>Sokszor más fordulat áll be az életemben</value>
+			<value>Barázdákból hangokat csipegetek</value>
+			<value>Nagy motoros vagyok</value>
+			<value>Könnyen bepörgök</value>
+			<value>Magamban is eldalolgatok</value>
+			<value>Ha befejezem a játékot, szó nélkül elhallgatok</value>
+			<value>Hangfalakkal veszem körül magam</value>
+			<value>Sokszor sasszézom</value>
+			<value>Elődöm tölcsért tartott</value>
+			<value>Rubinért és gyémántért tűvé teszek mindent</value>
+			<value>Sokszor ott állok lemeztelenítve</value>
+		</infos>
+	</card>
+	<card>
+		<category>Tárgy</category>
+		<name>Fék</name>
+		<infos>
+			<value>Június 29.én, PéterPálkor illik megszületnem</value>
+			<value>Legények foglalkoznak velem</value>
+			<value>Nem vagyok hívő, kévéimet mégis keresztbe rakják</value>
+			<value>Jelenlétemben rendet vágnak</value>
+			<value>Még ma is keserves, nehéz munkának tartanak</value>
+			<value>Az emberek naphosszat hajladoznak miattam</value>
+			<value>Ma már gépek kezdenek ki velem</value>
+			<value>Az esőt nem jól viselem</value>
+			<value>Megszoktam a meleget</value>
+			<value>Néha látok kaszát is</value>
+			<value>Édestestvérem a cséplés</value>
+			<value>Életem végén ünnepséget rendeznek</value>
+		</infos>
+	</card>
+</deck>
